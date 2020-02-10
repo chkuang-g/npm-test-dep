@@ -1,0 +1,21 @@
+{
+  "name": "com.chkuang.npm-test-dep",
+  "version": "0.0.1",
+  "displayName": "A Dep",
+  "description": "Dep on me",
+  "unity": "2018.1",
+  "dependencies": {},
+  "keywords": [
+    "just",
+    "dep"
+  ],
+  "author": {
+    "name": "chkuang-g",
+    "email": "chkuang-g@users.noreply.github.com",
+    "url": "https://github.com/chkuang-g"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chkuang-g/npm-test-dep.git"
+  }
+}
